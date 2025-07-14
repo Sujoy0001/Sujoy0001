@@ -12,7 +12,7 @@ Hi there! I'm Sujoy Garai, a passionate full-stack developer from India. I love 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujoy0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api?username=Sujoy0001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Sujoy0001&theme=dark&hide_border=false)
-![cat-computer](https://github.com/user-attachments/assets/230b72f1-de76-4768-a795-998272c968e6&height=auto)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sujoy0001&theme=dark&no-frame=true&no-bg=true&margin-w=4)
