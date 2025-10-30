@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Sujoy0001">
-    <img src="https://github.com/user-attachments/assets/5081eb74-3a9b-4b32-96f3-32607babea81" alt="Header Banner" width="100%"/>
+    <img width="1500" height="500" alt="Aesthetic Twitter Header (1)" src="https://github.com/user-attachments/assets/6834bf5f-f0d3-4fa6-9204-7cee0619c1b0" />
   </a>
 </div>
 
