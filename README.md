@@ -136,6 +136,7 @@ I love building web apps, automating workflows, and solving real-world problems 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
 
+<br />
 
 <div align="center">
   
@@ -143,19 +144,13 @@ I love building web apps, automating workflows, and solving real-world problems 
 
 ![](https://github-profile-trophy.vercel.app/?username=Sujoy0001&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+![pacman-contributions](https://github.com/user-attachments/assets/550b5a7c-5c12-438d-90fc-fd958251b1fe)
 
 </div>
 
-<br>
-
 <div align="center">
   
-### ✍️ Random Dev Quote
+### Random Dev Quote
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
   
