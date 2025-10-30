@@ -1,7 +1,60 @@
-# 💫 About Me:
-Hi there! I'm Sujoy Garai, a passionate full-stack developer from India. I love building web apps, automating workflows, and solving real-world problems with code.<br><br>💻 What I Do -<br>🔭 Currently working on full-stack projects using FastAPI, React, and MongoDB<br>🌱 Learning Advanced Backend Development, AI integration, and Cloud Deployment<br>💡 I enjoy turning ideas into reality through clean, scalable code<br><br>🏆 Achievements -<br>🥈 2nd place at CODEVOX-2024 Hackathon 💼 Worked on 3+ freelancing projects 🎓 Continuously learning the Full stack<br><br>
+<div align="center">
+  <a href="https://github.com/Sujoy0001">
+    <img src="https://github.com/user-attachments/assets/5081eb74-3a9b-4b32-96f3-32607babea81" alt="Header Banner" width="100%"/>
+  </a>
+</div>
 
-![Aesthetic Twitter Header (1)](https://github.com/user-attachments/assets/5081eb74-3a9b-4b32-96f3-32607babea81)
+<div align="center">
+
+# 👋 Hi, I'm Sujoy Garai
+
+### A passionate Full-Stack Developer from India 🇮🇳
+
+I love building web apps, automating workflows, and solving real-world problems with code.
+
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sujoygarai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/SujoyGarai999" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://www.instagram.com/_sujoygarai_?igsh=Nmx0YjVwZXV6M3Bv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+### 💻 What I Do
+
+* 🔭 Currently working on full-stack projects using **FastAPI, React, and MongoDB**.
+* 🌱 Learning **Advanced Backend Development, AI integration, and Cloud Deployment**.
+* 💡 Turning ideas into reality with **clean, scalable code**.
+
+    </td>
+    <td valign="top" width="50%">
+      
+### 🏆 Achievements
+
+* 🥈 **2nd Place** at CODEVOX-2024 Hackathon.
+* 💼 Successfully delivered on **3+ freelancing projects**.
+* 🎓 Continuously learning and growing in **Full-Stack Development**.
+        
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
@@ -83,22 +136,10 @@ Hi there! I'm Sujoy Garai, a passionate full-stack developer from India. I love 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
 
-<br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sujoygarai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/SujoyGarai999" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.instagram.com/_sujoygarai_?igsh=Nmx0YjVwZXV6M3Bv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
+  
+### My GitHub Stats & Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Sujoy0001&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
@@ -108,5 +149,14 @@ Hi there! I'm Sujoy Garai, a passionate full-stack developer from India. I love 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
+</div>
+
+<br>
+
+<div align="center">
+  
 ### ✍️ Random Dev Quote
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
+</div>
