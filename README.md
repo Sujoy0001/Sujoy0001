@@ -10,7 +10,7 @@
 
 ### A passionate Developer from India 🇮🇳
 
-B.Tech in Computer Science and Engineering | India | Graduating 2027
+B.Tech in Computer Science and Engineering || India || Graduating 2027
 
 </div>
 
@@ -30,23 +30,16 @@ B.Tech in Computer Science and Engineering | India | Graduating 2027
 </div>
 
 <br />
-      
-### 💻 What I Do
+     
+# 💻 What I Do
 
-* I build <font color="green">**modern, responsive**</font> frontend applications using <font color="green">**React**</font> and have <font color="green">**delivered multiple freelance projects with strong UI/UX**.</font>
-* I design and **develop scalable backend systems and APIs**, working with **MongoDB and SQL, and currently expanding into PostgreSQL**.
-* I build **AI-powered** applications such as **RAG systems**, integrating **LLM APIs and vector databases**.
-* I develop **microservice-based architectures** and use **Docker, Git, and GitHub Actions** for efficient development and deployment workflows.
-* I **deploy and host** full-stack applications on **cloud platforms** like AWS, **Render, and Vercel**, and use **services** such as **Firebase and Supabase** to deliver complete **production-ready solutions**. 🚀
-    
-      
-### 🏆 Achievements
+* *I build <font color="green">**modern, responsive**</font> frontend applications using <font color="green">**React**</font> and have <font color="green">**delivered multiple freelance projects with strong UI/UX**.</font>*
+* *I design and **develop scalable backend systems and APIs**, working with **MongoDB and SQL, and currently expanding into PostgreSQL**.*
+* *I build **AI-powered** applications such as **RAG systems**, integrating **LLM APIs and vector databases**.*
+* *I develop **microservice-based architectures** and use **Docker, Git, and GitHub Actions** for efficient development and deployment workflows.*
+* *I **deploy and host** full-stack applications on **cloud platforms** like AWS, **Render, and Vercel**, and use **services** such as **Firebase and Supabase** to deliver complete **production-ready solutions**. 🚀*
 
-* 💼 *Delivered freelance React frontend projects, building responsive and production-ready UI for real clients.*
-* 🤖 *Built **AI-powered** applications including **RAG-based document chat systems**, integrating **LLM APIs, vector databases, and scalable backend APIs**.*
-* ⚙️ *Designed and deployed full-stack applications from development to production, **using Docker, cloud platforms**, and modern **DevOps workflows**.*
-
-### 🤝 Work With Me
+# 🤝 Work With Me
 
 * *If you are looking for a freelancer to build a modern web application with React and a Python-based backend, feel free to contact me.*
 * *If you need a developer to design and build microservices for your product or project, I can help architect and implement scalable solutions.*
@@ -133,6 +126,12 @@ B.Tech in Computer Science and Engineering | India | Graduating 2027
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
 </div>
+
+### 🏆 Achievements
+
+* 💼 *Delivered freelance React frontend projects, building responsive and production-ready UI for real clients.*
+* 🤖 *Built **AI-powered** applications including **RAG-based document chat systems**, integrating **LLM APIs, vector databases, and scalable backend APIs**.*
+* ⚙️ *Designed and deployed full-stack applications from development to production, **using Docker, cloud platforms**, and modern **DevOps workflows**.*
 
 <br />
 
