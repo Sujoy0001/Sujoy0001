@@ -8,9 +8,9 @@
 
 # 👋 Hi, I'm Sujoy Garai
 
-### A passionate Full-Stack Developer from India 🇮🇳
+### A passionate Developer from India 🇮🇳
 
-I love building web apps, automating workflows, and solving real-world problems with code.
+B.Tech in Computer Science and Engineering | India | Graduating 2027
 
 </div>
 
@@ -30,30 +30,28 @@ I love building web apps, automating workflows, and solving real-world problems 
 </div>
 
 <br />
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
       
 ### 💻 What I Do
 
-* 🔭 Currently working on full-stack projects using **FastAPI, React, and MongoDB**.
-* 🌱 Learning **Advanced Backend Development, AI integration, and Cloud Deployment**.
-* 💡 Turning ideas into reality with **clean, scalable code**.
-
-    </td>
-    <td valign="top" width="50%">
+* I build <font color="green">**modern, responsive**</font> frontend applications using <font color="green">**React**</font> and have <font color="green">**delivered multiple freelance projects with strong UI/UX**.</font>
+* I design and **develop scalable backend systems and APIs**, working with **MongoDB and SQL, and currently expanding into PostgreSQL**.
+* I build **AI-powered** applications such as **RAG systems**, integrating **LLM APIs and vector databases**.
+* I develop **microservice-based architectures** and use **Docker, Git, and GitHub Actions** for efficient development and deployment workflows.
+* I **deploy and host** full-stack applications on **cloud platforms** like AWS, **Render, and Vercel**, and use **services** such as **Firebase and Supabase** to deliver complete **production-ready solutions**. 🚀
+    
       
 ### 🏆 Achievements
 
-* 🥈 **2nd Place** at CODEVOX-2024 Hackathon.
-* 💼 Successfully delivered on **3+ freelancing projects**.
-* 🎓 Continuously learning and growing in **Full-Stack Development**.
-        
-    </td>
-  </tr>
-</table>
+* 💼 *Delivered freelance React frontend projects, building responsive and production-ready UI for real clients.*
+* 🤖 *Built **AI-powered** applications including **RAG-based document chat systems**, integrating **LLM APIs, vector databases, and scalable backend APIs**.*
+* ⚙️ *Designed and deployed full-stack applications from development to production, **using Docker, cloud platforms**, and modern **DevOps workflows**.*
 
+### 🤝 Work With Me
+
+* *If you are looking for a freelancer to build a modern web application with React and a Python-based backend, feel free to contact me.*
+* *If you need a developer to design and build microservices for your product or project, I can help architect and implement scalable solutions.*
+* *If you have a **job opportunity or collaboration offer**, I would be happy to connect and discuss how I can contribute.*
+  
 <br />
 
 <div align="center">
@@ -138,9 +136,9 @@ I love building web apps, automating workflows, and solving real-world problems 
 
 <br />
 
+### Email : *sujoygarai89@gmail.com* || LinkedIn : *https://www.linkedin.com/in/sujoygarai/* || GitHub : *Sujoy0001*
+
 <div align="center">
-  
-### My GitHub Stats & Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Sujoy0001&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
