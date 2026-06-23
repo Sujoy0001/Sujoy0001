@@ -39,13 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Sujoy0001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Sujoy0001/Sujoy0001/trophy-output/trophy.svg?theme=gruvbox&no-frame=false&no-bg=false&margin-h=6&margin-w=6&column=2&row=2" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/Sujoy0001/Sujoy0001/activity-graph-output/activity-graph.svg?theme=redical" height="150" alt="activity-graph graph"  />
-</div>
 
 ###
 
@@ -162,8 +155,6 @@
 ###
 
 <br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Sujoy0001/Sujoy0001/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
