@@ -1,5 +1,4 @@
 
-<img width="1500" height="500" alt="Aesthetic Twitter Header (2)" src="https://github.com/user-attachments/assets/bfc455fb-588c-446e-b4a4-2506df2eace2" />
 
 
 
